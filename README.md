@@ -30,6 +30,7 @@
 
 <br />
 
+---
 
 <img align="left" alt="hazamaswag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazamaswag&show_icons=true&hide_border=true&title_color=7fff00&icon_color=00AEFF&text_color=fff&bg_color=000&count_private=true" />
 
