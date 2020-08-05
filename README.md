@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="hazamaswag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazamaswag&show_icons=true&hide_border=true&theme=buefy&count_private=true" />
+<img align="left" alt="hazamaswag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazamaswag&show_icons=true&hide_border=true&title_color=333&count_private=true" />
