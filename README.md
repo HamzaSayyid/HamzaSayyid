@@ -7,8 +7,6 @@
 - 🥅 2020 Goals: Contribute to more open source projects
 - ⚡ Fun fact: I love playing video games
 
---- 
-
 ## Connect with me
 
 [<img align="left" alt="hazamaswag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
