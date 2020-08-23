@@ -31,7 +31,7 @@
 <br />
 
 ---
-
+<!-- updated themes -->
 <img align="left" alt="hazamaswag's Github Stats" src="https://github-readme-stats.hazamaswag.vercel.app/api?username=hazamaswag&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
 
 [twitter]: https://twitter.com/not_hamzy
