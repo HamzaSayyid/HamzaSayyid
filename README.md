@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on making a portfolio!
 - 🌱 I’m constantly trying to learn everything 🤣
 - 👯 I’m looking to create applications that I can be proud of ✌️
-- 🥅 2020 Goals: Contribute to more open source projects
+- 🥅 2021 Goals: Contribute to more open source projects
 - ⚡ Fun fact: I love playing video games
 
 ## Connect with me
