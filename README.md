@@ -5,7 +5,7 @@
 - 🌱 I’m constantly trying to learn everything 🤣
 - 👯 I’m looking to create applications that I can be proud of ✌️
 - 🥅 2021 Goals: Contribute to more open source projects
-- ⚡ Fun fact: I love playing video games
+- ⚡ Fun fact: I love learning human languages
 
 ## Connect with me
 
