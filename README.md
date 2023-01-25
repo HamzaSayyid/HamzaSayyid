@@ -1,11 +1,11 @@
 ### Hi there, I'm Hamza Sayyid 👋
 
 ## I'm a Student of Computer Science!
-- 🔭 I’m currently working on nanoleaf panel integration!
+- 🔭 I’m currently working on nanoleaf panel integrations!
 - 🌱 I’m constantly trying to learn everything 🤣
 - 👯 I’m looking to create applications that I can be proud of ✌️
-- 🥅 2022 Goals: Contribute to more open source projects
-- ⚡ Fun fact: I love learning human languages
+- 🥅 2023 Goals: Contribute to more open source projects
+- ⚡ Fun fact: I love learning human (natural) languages
 
 ## Connect with me
 
